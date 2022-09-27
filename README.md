@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/desktop.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -36,7 +36,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://skywalk128.github.io/card-component-v2.github.io/)
 
 ## My process
 
@@ -53,7 +53,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Ken chen](https://www.your-site.com)
+- Website - [Ken chen](https://skywalk128.github.io/card-component-v2.github.io/)
 - Frontend Mentor - [Ken chen](https://www.frontendmentor.io/profile/skywalk128)
 
 ## Acknowledgments
